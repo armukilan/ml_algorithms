@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Subscribed,Region
+1,John,28,Yes,North
+2,Sophia,34,No,South
+3,Amit,25,Yes,East
+4,Emma,40,No,West
+5,Liam,30,Yes,South
